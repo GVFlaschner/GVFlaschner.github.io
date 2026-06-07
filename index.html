@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dr. Gotthold Fläschner</title>
+  <meta name="description" content="Personal website of Dr. Gotthold Fläschner, physicist and biophysicist working on cell mechanics, AFM, mechanobiology, and viscoelastic mechanotransduction.">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Gotthold Fläschner home">
+      <span class="brand-name">Gotthold Fläschner</span>
+      <span class="brand-role">Soft matter physics · Tools · Theory · Open Science</span>
+    </a>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="#about">About</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#research">Research</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Dr. Gotthold Viktor Fläschner</p>
+        <h1>I like to solve puzzles.</h1>
+        <p class="lead">...especially the ones where nature refuses to stay inside one discipline. I work at the intersection of physics and biology: measuring living systems, building methods, and using theory to understand what cells feel and do. What draws me in is the tension between mathematical beauty and real-world use. That is why I often work across boundaries: between physics and biology, theory and experiment, academia and industry, research and communication. I also care strongly about open science, because good ideas should travel further than the walls of a single lab.</p>
+        <div class="hero-actions" aria-label="Primary links">
+          <a class="button primary" href="#timeline">Explore timeline</a>
+          <a class="button" href="https://scholar.google.com/citations?user=fg-3VkUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+          <a class="button" href="https://orcid.org/0000-0001-6707-6905" target="_blank" rel="noopener">ORCID</a>
+        </div>
+      </div>
+      <figure class="hero-photo">
+        <img src="assets/images/gotthold.jpg" alt="Gotthold Fläschner giving a lecture at a whiteboard">
+        <figcaption>Teaching and public science communication have been part of the path from the beginning.</figcaption>
+      </figure>
+    </section>
+
+    <section class="section about-section" id="about">
+      <div class="section-label">About</div>
+      <div class="about-grid">
+        <h2>At home between physics, biology, theory, and tools.</h2>
+        <div class="about-text">
+          <p>I studied physics in Hamburg, where I first worked on ultra-low-temperature physics in a group connected to quantum teleportation experiments. During my PhD at ETH Zurich, I moved into biophysics and developed methods to measure the mass, resonance, damping, and mechanical properties of living cells. I then joined Nanosurf AG, where I worked on translating my research into products, applications, and workflows for researchers. Today, as a postdoctoral researcher at IBEC Barcelona, I have returned to fundamental mechanobiology: trying to understand how cells sense, respond to, and build the physical world around them.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section timeline-section" id="timeline">
+      <div class="section-head">
+        <div>
+          <div class="section-label">Interactive timeline</div>
+          <h2>Places, papers, patents, talks, and public traces.</h2>
+        </div>
+        <p>The colored center band starts with the present and runs backward into the past. Public items branch out as cards; education and positions appear as compact milestones on the line.</p>
+      </div>
+
+      <div class="timeline-controls" aria-label="Timeline filters">
+        <button class="filter-button active" type="button" data-filter="all">All</button>
+        <button class="filter-button" type="button" data-filter="publication">Publications</button>
+        <button class="filter-button" type="button" data-filter="talk">Talks</button>
+        <button class="filter-button" type="button" data-filter="media">Media</button>
+        <button class="filter-button" type="button" data-filter="award">Awards</button>
+        <button class="filter-button" type="button" data-filter="patent">Patents</button>
+      </div>
+
+      <div class="timeline-wrap">
+        <div class="timeline" id="timelineList" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section research-section" id="research">
+      <div class="section-label">Research themes</div>
+      <div class="theme-grid">
+        <article class="theme-card">
+          <h3>Single-cell mass and PicoBalance</h3>
+          <p>High-speed mass measurements of living cells, including water-homeostasis dynamics, growth, infection signatures, eigenfrequency, and quality factor.</p>
+        </article>
+        <article class="theme-card">
+          <h3>AFM-based mechanobiology</h3>
+          <p>Mechanical characterization of cells and biomaterials, cantilever calibration, nanomechanical mapping, and quantitative instrumentation.</p>
+        </article>
+        <article class="theme-card">
+          <h3>Viscoelastic mechanotransduction</h3>
+          <p>Current work on how cells respond to elastic and viscous substrate cues, using hydrogels, modeling, microscopy, and data-driven dynamics.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section contact-section" id="contact">
+      <div class="section-label">Contact</div>
+      <h2>For collaborations, talks, or scientific exchange.</h2>
+      <p>Use a direct personal email link here. I have left the address as a placeholder until you tell me which one to publish.</p>
+      <a class="button primary" href="mailto:replace-with-your-email@example.com">replace-with-your-email@example.com</a>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Gotthold Fläschner. Built as a static site for local inspection and GitHub Pages.</p>
+  </footer>
+
+  <script src="assets/js/timeline.js" type="module"></script>
+</body>
+</html>
