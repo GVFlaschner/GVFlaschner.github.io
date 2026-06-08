@@ -14,8 +14,18 @@ const state = {
 const timelineList = document.querySelector("#timelineList");
 const filterButtons = document.querySelectorAll(".filter-button");
 document.querySelector("#year").textContent = new Date().getFullYear();
+setupEmailLink();
 
 init();
+
+function setupEmailLink() {
+  const link = document.querySelector("#emailLink");
+  if (!link) return;
+
+  const domain = link.dataset.domainParts.split(",").join(".");
+  const address = `${link.dataset.user}@${domain}`;
+  link.href = `mailto:${address}`;
+}
 
 async function init() {
   const response = await fetch("assets/data/timeline.json");
