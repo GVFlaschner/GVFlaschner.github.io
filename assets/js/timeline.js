@@ -49,13 +49,9 @@ function renderTimeline() {
     .filter((event) => state.filter === "all" || event.type === state.filter || event.type === "milestone")
     .sort((a, b) => (b.sortDate || b.date).localeCompare(a.sortDate || a.date));
 
-  let lastPeriod = "";
-  timelineList.innerHTML = filtered.map((event, index) => {
-    const period = periodForEvent(event);
-    const showPeriod = period?.label !== lastPeriod;
-    lastPeriod = period?.label || lastPeriod;
-    return eventTemplate(event, index, period, showPeriod);
-  }).join("");
+  timelineList.innerHTML = halfYearGroups(filtered)
+    .map((group) => groupTemplate(group))
+    .join("");
 
   document.querySelectorAll(".event-toggle").forEach((button) => {
     button.addEventListener("click", () => {
@@ -67,40 +63,68 @@ function renderTimeline() {
   });
 }
 
-function eventTemplate(event, index, period, showPeriod) {
-  const side = event.side || (index % 2 === 0 ? "left" : "right");
-  const tone = period?.tone || "neutral";
-  const periodLabel = showPeriod && period ? `
-    <div class="period-break tone-${tone}">
-      <div class="period-label">
-        <strong>${period.label}</strong>
-        <span>${period.start}-${period.end}</span>
-        <small>${period.subtitle}</small>
+function halfYearGroups(events) {
+  const groups = new Map();
+  events.forEach((event) => {
+    const half = halfYearForEvent(event);
+    if (!groups.has(half.key)) {
+      groups.set(half.key, {
+        ...half,
+        events: []
+      });
+    }
+    groups.get(half.key).events.push(event);
+  });
+
+  return Array.from(groups.values())
+    .map((group) => {
+      const periods = uniquePeriods(group.events);
+      const primaryPeriod = periods[0];
+      return {
+        ...group,
+        periods,
+        tone: primaryPeriod?.tone || "neutral",
+        events: group.events.sort((a, b) => (b.sortDate || b.date).localeCompare(a.sortDate || a.date))
+      };
+    })
+    .sort((a, b) => b.key.localeCompare(a.key));
+}
+
+function groupTemplate(group) {
+  const milestones = group.events.filter((event) => event.type === "milestone");
+  const publicEvents = group.events.filter((event) => event.type !== "milestone");
+  const periodNames = group.periods.map((period) => period.label).join(" / ");
+  const milestoneChips = milestones.length
+    ? `<div class="milestone-strip">${milestones.map((event) => `<span>${event.title}</span>`).join("")}</div>`
+    : "";
+
+  return `
+    <section class="timeline-section-row tone-${group.tone}">
+      <div class="timeline-marker">
+        <span class="node" aria-hidden="true"></span>
+        <div class="half-label">
+          <strong>${group.year}</strong>
+          <span>${group.halfLabel}</span>
+          <small>${periodNames}</small>
+        </div>
       </div>
-    </div>
-  ` : "";
+      <div class="half-content">
+        ${milestoneChips}
+        <div class="event-cluster">
+          ${publicEvents.map((event) => eventCardTemplate(event)).join("")}
+        </div>
+      </div>
+    </section>
+  `;
+}
+
+function eventCardTemplate(event) {
   const links = event.links?.length
     ? `<div class="event-links">${event.links.map((link) => `<a href="${link.url}" target="_blank" rel="noopener">${link.label}</a>`).join("")}</div>`
     : "";
 
-  if (event.type === "milestone") {
-    return `
-      ${periodLabel}
-      <article class="timeline-row milestone-row row-${side} tone-${tone}" data-type="${event.type}">
-        <div class="milestone-label">
-          <strong>${event.title}</strong>
-        </div>
-        <div class="center-lane">
-          <span class="node" aria-hidden="true"></span>
-        </div>
-      </article>
-    `;
-  }
-
   return `
-    ${periodLabel}
-    <article class="timeline-row row-${side} tone-${tone}" data-type="${event.type}">
-      <div class="event-card">
+      <div class="event-card" data-type="${event.type}">
         <button class="event-toggle" type="button" aria-expanded="false">
           <span class="event-meta">
             <span class="event-date">${event.date}</span>
@@ -114,11 +138,33 @@ function eventTemplate(event, index, period, showPeriod) {
           ${links}
         </div>
       </div>
-      <div class="center-lane">
-        <span class="node" aria-hidden="true"></span>
-      </div>
-    </article>
   `;
+}
+
+function halfYearForEvent(event) {
+  const sortDate = event.sortDate || event.date || event.year;
+  const year = Number.parseInt(sortDate, 10);
+  const monthMatch = String(sortDate).match(/^\d{4}-(\d{2})/);
+  const month = monthMatch ? Number.parseInt(monthMatch[1], 10) : 1;
+  const half = month > 6 ? 2 : 1;
+
+  return {
+    key: `${year}-${half}`,
+    year,
+    half,
+    halfLabel: half === 1 ? "Jan-Jun" : "Jul-Dec"
+  };
+}
+
+function uniquePeriods(events) {
+  const periods = [];
+  events.forEach((event) => {
+    const period = periodForEvent(event);
+    if (period && !periods.some((item) => item.label === period.label)) {
+      periods.push(period);
+    }
+  });
+  return periods;
 }
 
 function periodForEvent(event) {

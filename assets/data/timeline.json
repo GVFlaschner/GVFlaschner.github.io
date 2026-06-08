@@ -1,1187 +1,1049 @@
-{
-  "periods": [
-    {
-      "start": "2001",
-      "end": "2013",
-      "label": "Hamburg",
-      "subtitle": "school, early studies, physics, outreach",
-      "tone": "hamburg"
-    },
-    {
-      "start": "2014",
-      "end": "2021",
-      "label": "ETH Zurich",
-      "subtitle": "PhD, biophysics, single-cell mechanics",
-      "tone": "eth"
-    },
-    {
-      "start": "2021",
-      "end": "2024",
-      "label": "Nanosurf AG",
-      "subtitle": "nanomechanics, PicoBalance, technology transfer",
-      "tone": "industry"
-    },
-    {
-      "start": "2024",
-      "end": "now",
-      "label": "IBEC Barcelona",
-      "subtitle": "postdoctoral mechanobiology",
-      "tone": "ibec"
-    }
-  ],
-  "events": [
-    {
-      "date": "2008-11-27",
-      "sortDate": "2008-11-27",
-      "year": "2008",
-      "type": "talk",
-      "title": "Curved spaces: the shape of the universe",
-      "place": "DESY Science Cafe",
-      "summary": "I gave or contributed to this talk at DESY Science Cafe. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "DESY program",
-          "url": "https://sciencecafe.desy.de/e205504/e205557/"
-        }
-      ],
-      "localBackup": "archive/sources/2008-desy-science-cafe/"
-    },
-    {
-      "date": "2009-2013",
-      "sortDate": "2009-10-01",
-      "year": "2009",
-      "type": "award",
-      "title": "Scholarship of the Studienstiftung des Deutschen Volkes",
-      "place": "Studienstiftung des Deutschen Volkes",
-      "summary": "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
-      "side": "left",
-      "links": [],
-      "localBackup": "CV_GFlaeschner.pdf"
-    },
-    {
-      "date": "2012-01-11",
-      "sortDate": "2012-01-11",
-      "year": "2012",
-      "type": "talk",
-      "title": "On the fast lane: does Einstein's relativity falter?",
-      "place": "DESY Science Cafe",
-      "summary": "I gave or contributed to this talk at DESY Science Cafe. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [
-        {
-          "label": "DESY program",
-          "url": "https://sciencecafe.desy.de/e205504/e205519/"
-        },
-        {
-          "label": "DESY feedback",
-          "url": "https://sciencecafe.desy.de/e52/"
-        }
-      ],
-      "localBackup": "archive/sources/2012-desy-relativity-talk/"
-    },
-    {
-      "date": "2013-11",
-      "sortDate": "2013-11",
-      "year": "2013",
-      "type": "talk",
-      "title": "The Big Bang Theory: Der Urknall",
-      "place": "HAW Hamburg Einstein-Workshop",
-      "summary": "I gave or contributed to this talk at HAW Hamburg Einstein-Workshop. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [],
-      "localBackup": "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
-    },
-    {
-      "date": "2013-12-05",
-      "sortDate": "2013-12-05",
-      "year": "2013",
-      "type": "talk",
-      "title": "Can science fiction become science fact?",
-      "place": "HAW Hamburg Einstein-Forum",
-      "summary": "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [],
-      "localBackup": "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
-    },
-    {
-      "date": "2014-03-27",
-      "sortDate": "2014-03-27",
-      "year": "2014",
-      "type": "talk",
-      "period": "Hamburg",
-      "title": "The Standard Model: why the world is the way it is",
-      "place": "HAW Hamburg Einstein-Forum",
-      "summary": "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [],
-      "localBackup": "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
-    },
-    {
-      "date": "2014-04-24",
-      "sortDate": "2014-04-24",
-      "year": "2014",
-      "type": "talk",
-      "period": "Hamburg",
-      "title": "Black holes: nothing is darker than black",
-      "place": "HAW Hamburg Einstein-Forum",
-      "summary": "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [],
-      "localBackup": "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
-    },
-    {
-      "date": "2014-05-22",
-      "sortDate": "2014-05-22",
-      "year": "2014",
-      "type": "talk",
-      "period": "Hamburg",
-      "title": "Exotic stars: giants, dwarfs, and other exotics",
-      "place": "HAW Hamburg Einstein-Forum",
-      "summary": "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [],
-      "localBackup": "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
-    },
-    {
-      "date": "2014-12-10",
-      "sortDate": "2014-12-10",
-      "year": "2014",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "The journey into space: propulsion methods and concepts",
-      "place": "DESY Science Cafe",
-      "summary": "I gave or contributed to this talk at DESY Science Cafe. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "DESY program",
-          "url": "https://sciencecafe.desy.de/e205504/e241624/"
-        }
-      ],
-      "localBackup": "archive/sources/2014-desy-space-travel/"
-    },
-    {
-      "date": "2015",
-      "sortDate": "2015-03",
-      "year": "2015",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Temperature and non-linear response of AFM cantilever-type oscillators",
-      "place": "Applied Physics Letters",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Temperature and non-linear response of AFM cantilever-type oscillators.",
-      "side": "right",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1063/1.4916221"
-        }
-      ],
-      "localBackup": "archive/publications/2015-applied-physics-letters/"
-    },
-    {
-      "date": "2016",
-      "sortDate": "2016-01",
-      "year": "2016",
-      "type": "award",
-      "period": "ETH Zurich",
-      "title": "NCCR Molecular Systems Engineering Poster Cup Winner",
-      "place": "NCCR Molecular Systems Engineering",
-      "summary": "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
-      "side": "left",
-      "links": [],
-      "localBackup": "CV_GFlaeschner.pdf"
-    },
-    {
-      "date": "2017-02-22",
-      "sortDate": "2017-02-22",
-      "year": "2017",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Millikelvin all-fiber cavity optomechanical apparatus",
-      "place": "Review of Scientific Instruments",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Millikelvin all-fiber cavity optomechanical apparatus.",
-      "side": "left",
-      "links": [
-        {
-          "label": "arXiv preprint",
-          "url": "https://arxiv.org/abs/1611.03406"
-        }
-      ],
-      "localBackup": "archive/publications/2017-rsi-optomechanics/"
-    },
-    {
-      "date": "2017",
-      "sortDate": "2017-09",
-      "year": "2017",
-      "type": "patent",
-      "period": "ETH Zurich",
-      "title": "Apparatus and method for determining mechanical properties of a system",
-      "place": "International patent application",
-      "summary": "I include this patent because it captures the applied side of my work on measuring mechanical properties in biological systems.",
-      "side": "left",
-      "links": [],
-      "localBackup": "CV_GFlaeschner.pdf"
-    },
-    {
-      "date": "2017",
-      "sortDate": "2017-09-02",
-      "year": "2017",
-      "type": "patent",
-      "period": "ETH Zurich",
-      "title": "Microcantilever measuring device and method for determining mass and/or properties of biological systems",
-      "place": "International patent application",
-      "summary": "I include this patent because it reflects the practical side of my work: turning measurement ideas and instruments into methods that can travel beyond one lab.",
-      "side": "right",
-      "links": [],
-      "localBackup": "CV_GFlaeschner.pdf"
-    },
-    {
-      "date": "2017-10-26",
-      "sortDate": "2017-10-26",
-      "year": "2017",
-      "type": "media",
-      "period": "ETH Zurich",
-      "title": "Wie viel wiegt das Leben?",
-      "place": "ETH Zurich News",
-      "summary": "I use this ETH news piece to show how our single-cell weighing work was presented to a broader audience, because explaining why a measurement matters is part of making the method useful.",
-      "side": "left",
-      "links": [
-        {
-          "label": "ETH news",
-          "url": "https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2017/10/waage-fuer-einzelne-zellen.html"
-        }
-      ],
-      "localBackup": "archive/media/2017-eth-picobalance-news/"
-    },
-    {
-      "date": "2017-10-26",
-      "sortDate": "2017-10-26-1",
-      "year": "2017",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Inertial picobalance reveals fast mass fluctuations in mammalian cells",
-      "place": "Nature",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Inertial picobalance reveals fast mass fluctuations in mammalian cells.",
-      "side": "right",
-      "links": [
-        {
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/29072271/"
-        },
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1038/nature24288"
-        }
-      ],
-      "localBackup": "archive/publications/2017-nature-picobalance/"
-    },
-    {
-      "date": "2017-12-18",
-      "sortDate": "2017-12-18",
-      "year": "2017",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Virus stamping for targeted single-cell infection",
-      "place": "Nature Biotechnology",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Virus stamping for targeted single-cell infection.",
-      "side": "left",
-      "links": [
-        {
-          "label": "Crossref metadata",
-          "url": "https://crossmark.crossref.org/dialog/?doi=10.1038%2Fnbt.4034"
-        }
-      ],
-      "localBackup": "archive/publications/2017-nature-biotechnology-virus-stamping/"
-    },
-    {
-      "date": "2017-12-20",
-      "sortDate": "2017-12-20",
-      "year": "2017",
-      "type": "media",
-      "period": "ETH Zurich",
-      "title": "Nature selected an image from the cell-mass work among the best science images of 2017",
-      "place": "ETH D-BSSE",
-      "summary": "This is a public-facing trace of my work or scientific engagement. I include it because it shows where the research, the people around it, or the institutional context became visible beyond a paper.",
-      "side": "right",
-      "links": [
-        {
-          "label": "ETH D-BSSE",
-          "url": "https://bsse.ethz.ch/news-and-events/d-bsse-news/2017/12/the-10-best-science-images-of-the-year-2017---nature-awards-daniel-muellers-work.html"
-        }
-      ],
-      "localBackup": "archive/media/2017-nature-best-images/"
-    },
-    {
-      "date": "2017-12-27",
-      "sortDate": "2017-12-27",
-      "year": "2017",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "Star Trek and Star Wars: a physical perspective",
-      "place": "Planetarium Hamburg / HAW Hamburg",
-      "summary": "I gave or contributed to this talk at Planetarium Hamburg / HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "Programme PDF",
-          "url": "https://www.hamburg-city-webguide.de/wp-content/uploads/2017/11/HAW_Einstein_Programm_20171024_RZ-ANSICHT.pdf"
-        }
-      ],
-      "localBackup": "archive/sources/2017-haw-planetarium-programme/"
-    },
-    {
-      "date": "2017-12-29",
-      "sortDate": "2017-12-29",
-      "year": "2017",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "Einstein and gravitational waves",
-      "place": "Planetarium Hamburg / HAW Hamburg",
-      "summary": "I gave or contributed to this talk at Planetarium Hamburg / HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [
-        {
-          "label": "Programme PDF",
-          "url": "https://www.hamburg-city-webguide.de/wp-content/uploads/2017/11/HAW_Einstein_Programm_20171024_RZ-ANSICHT.pdf"
-        }
-      ],
-      "localBackup": "archive/sources/2017-haw-planetarium-programme/"
-    },
-    {
-      "date": "2018",
-      "sortDate": "2018-01",
-      "year": "2018",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Vaccinia virus hijacks EGFR signalling to enhance virus spread",
-      "place": "Nature Microbiology",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Vaccinia virus hijacks EGFR signalling to enhance virus spread.",
-      "side": "left",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1038/s41564-018-0288-2"
-        }
-      ],
-      "localBackup": "archive/publications/2018-nature-microbiology-vaccinia/"
-    },
-    {
-      "date": "2018-03-09",
-      "sortDate": "2018-03-09",
-      "year": "2018",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "Exotic stars: giants, dwarfs, and other exotics",
-      "place": "Einstein-Forum, Planetarium Hamburg",
-      "summary": "I gave or contributed to this talk at Einstein-Forum, Planetarium Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [
-        {
-          "label": "idw / HAW announcement",
-          "url": "https://nachrichten.idw-online.de/2018/03/08/neues-einstein-forum-vorlesungsreihe-von-haw-hamburg-und-planetarium-hamburg"
-        }
-      ],
-      "localBackup": "archive/sources/2018-einstein-forum/"
-    },
-    {
-      "date": "2018-03-12",
-      "sortDate": "2018-03-12",
-      "year": "2018",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "Superconductivity: the path of least resistance",
-      "place": "Einstein-Forum, HAW Hamburg",
-      "summary": "I gave or contributed to this talk at Einstein-Forum, HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "idw / HAW announcement",
-          "url": "https://nachrichten.idw-online.de/2018/03/08/neues-einstein-forum-vorlesungsreihe-von-haw-hamburg-und-planetarium-hamburg"
-        }
-      ],
-      "localBackup": "archive/sources/2018-einstein-forum/"
-    },
-    {
-      "date": "2018-06-07",
-      "sortDate": "2018-06-07",
-      "year": "2018",
-      "type": "award",
-      "period": "ETH Zurich",
-      "title": "Swiss Nanoscience PhD Award",
-      "place": "Swiss Nanoscience Institute / ETH Zurich",
-      "summary": "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
-      "side": "right",
-      "links": [
-        {
-          "label": "ETH announcement",
-          "url": "https://bsse.ethz.ch/news-and-events/d-bsse-news/2018/06/swiss-nanotech-award-given-to-rajib-schubert-and-gotthold-flaeschner.html"
-        }
-      ],
-      "localBackup": "archive/sources/2018-swiss-nanoscience-award/"
-    },
-    {
-      "date": "2018-06-11",
-      "sortDate": "2018-06-11",
-      "year": "2018",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "Cryptography from Caesar to Bitcoin and quantum computers",
-      "place": "Einstein-Forum, HAW Hamburg",
-      "summary": "I gave or contributed to this talk at Einstein-Forum, HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "idw / HAW announcement",
-          "url": "https://nachrichten.idw-online.de/2018/03/08/neues-einstein-forum-vorlesungsreihe-von-haw-hamburg-und-planetarium-hamburg"
-        }
-      ],
-      "localBackup": "archive/sources/2018-einstein-forum/"
-    },
-    {
-      "date": "2018-11-19",
-      "sortDate": "2018-11-19",
-      "year": "2018",
-      "type": "media",
-      "period": "ETH Zurich",
-      "title": "20 years of AG Faszination Physik at DESY",
-      "place": "DESYinform",
-      "summary": "This is a public-facing trace of my work or scientific engagement. I include it because it shows where the research, the people around it, or the institutional context became visible beyond a paper.",
-      "side": "left",
-      "links": [
-        {
-          "label": "DESYinform PDF",
-          "url": "https://www.desy.de/sites2009/site_www-desy/content/e409/e8731/e8852/e8858/infoboxContent285305/DESYinform_3_18_englow_eng.pdf"
-        }
-      ],
-      "localBackup": "archive/media/2018-desyinform/"
-    },
-    {
-      "date": "2019",
-      "sortDate": "2019-01",
-      "year": "2019",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Automated analysis of inertial mass measurements of single cells",
-      "place": "SoftwareX",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Automated analysis of inertial mass measurements of single cells.",
-      "side": "right",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1016/j.softx.2019.100303"
-        }
-      ],
-      "localBackup": "archive/publications/2019-softwarex-inertial-mass/"
-    },
-    {
-      "date": "2019",
-      "sortDate": "2019-01-02",
-      "year": "2019",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Atomic force microscopy-based mechanobiology",
-      "place": "Nature Reviews Physics",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Atomic force microscopy-based mechanobiology.",
-      "side": "left",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1038/s42254-018-0001-7"
-        }
-      ],
-      "localBackup": "archive/publications/2019-nature-reviews-physics-afm/"
-    },
-    {
-      "date": "2019-02",
-      "sortDate": "2019-02",
-      "year": "2019",
-      "type": "media",
-      "period": "ETH Zurich",
-      "title": "SRF radio appearance on ETH power-abuse concerns",
-      "place": "Schweizer Radio und Fernsehen",
-      "summary": "This is a public-facing trace of my work or scientific engagement. I include it because it shows where the research, the people around it, or the institutional context became visible beyond a paper.",
-      "side": "left",
-      "links": [
-        {
-          "label": "SRF audio",
-          "url": "https://www.srf.ch/audio/regionaljournal-basel-baselland/gotthold-flaeschner-und-timm-schroeder-wollen-den-machtmissbrauch-an-der-eth-in-basel-bekaempfen?uuid=3b0564ee-e964-4501-82c7-ad0ef130bedc"
-        }
-      ],
-      "localBackup": "archive/media/2019-srf-eth-work-environment/"
-    },
-    {
-      "date": "2019-02-14",
-      "sortDate": "2019-02-14",
-      "year": "2019",
-      "type": "award",
-      "period": "ETH Zurich",
-      "title": "ETH delegate to the Global Young Scientist Summit",
-      "place": "ETH Zurich / Singapore",
-      "summary": "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
-      "side": "right",
-      "links": [
-        {
-          "label": "ETH Ambassadors",
-          "url": "https://ethambassadors.ethz.ch/2019/02/14/nobel-laureates-mentor-the-next-generation-of-young-scientists/"
-        }
-      ],
-      "localBackup": "archive/sources/2019-gyss/"
-    },
-    {
-      "date": "2020-01-28",
-      "sortDate": "2020-01-28",
-      "year": "2020",
-      "type": "patent",
-      "period": "ETH Zurich",
-      "title": "Controlled environmental system / environmental chamber",
-      "place": "Google Patents",
-      "summary": "I include this patent because it reflects the practical side of my work: turning measurement ideas and instruments into methods that can travel beyond one lab.",
-      "side": "right",
-      "links": [
-        {
-          "label": "Google Patents",
-          "url": "https://patents.google.com/patent/US10545169B2"
-        }
-      ],
-      "localBackup": "archive/sources/2020-environmental-chamber-patent/"
-    },
-    {
-      "date": "2020-06-04",
-      "sortDate": "2020-06-04",
-      "year": "2020",
-      "type": "patent",
-      "period": "ETH Zurich",
-      "title": "Novel methods for the targeted introduction of viruses into cells and tissues",
-      "place": "Google Patents",
-      "summary": "I include this patent because it reflects the practical side of my work: turning measurement ideas and instruments into methods that can travel beyond one lab.",
-      "side": "left",
-      "links": [
-        {
-          "label": "Google Patents",
-          "url": "https://patents.google.com/patent/US20200172933A1/en"
-        }
-      ],
-      "localBackup": "archive/sources/2020-virus-stamping-patent/"
-    },
-    {
-      "date": "2020",
-      "sortDate": "2020-07",
-      "year": "2020",
-      "type": "award",
-      "period": "ETH Zurich",
-      "title": "ETH Medal for outstanding dissertation",
-      "place": "ETH Zurich",
-      "summary": "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
-      "side": "right",
-      "links": [
-        {
-          "label": "ETH announcement",
-          "url": "https://bsse.ethz.ch/news-and-events/d-bsse-news/2021/05/eth-medals-for-matteo-togninalli-gotthold-flaeschner.html"
-        }
-      ],
-      "localBackup": "archive/sources/2021-eth-medal/"
-    },
-    {
-      "date": "2021-02-18",
-      "sortDate": "2021-02-18",
-      "year": "2021",
-      "type": "media",
-      "period": "ETH Zurich",
-      "title": "We also have to convince the incautious",
-      "place": "HAW Hamburg",
-      "summary": "I discussed pandemic modelling and science communication in this HAW interview, because communication is part of responsible scientific work.",
-      "side": "left",
-      "links": [
-        {
-          "label": "HAW interview",
-          "url": "https://www.haw-hamburg.de/detail/news/news/show/wir-muessen-auch-die-unvorsichtigen-ueberzeugen/"
-        }
-      ],
-      "localBackup": "archive/media/2021-haw-pandemic-interview/"
-    },
-    {
-      "date": "2021-05-11",
-      "sortDate": "2021-05-11",
-      "year": "2021",
-      "type": "award",
-      "period": "ETH Zurich",
-      "title": "ETH Medal announced",
-      "place": "ETH D-BSSE",
-      "summary": "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
-      "side": "right",
-      "links": [
-        {
-          "label": "ETH D-BSSE",
-          "url": "https://bsse.ethz.ch/news-and-events/d-bsse-news/2021/05/eth-medals-for-matteo-togninalli-gotthold-flaeschner.html"
-        }
-      ],
-      "localBackup": "archive/sources/2021-eth-medal/"
-    },
-    {
-      "date": "2021-05-18",
-      "sortDate": "2021-05-18",
-      "year": "2021",
-      "type": "publication",
-      "period": "ETH Zurich",
-      "title": "Rheology of rounded mammalian cells over continuous frequencies",
-      "place": "Nature Communications",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Rheology of rounded mammalian cells over continuous frequencies.",
-      "side": "left",
-      "links": [
-        {
-          "label": "Nature Communications",
-          "url": "https://www.nature.com/articles/s41467-021-23158-0"
-        }
-      ],
-      "localBackup": "archive/publications/2021-nature-communications-rheology/"
-    },
-    {
-      "date": "2021-05-27",
-      "sortDate": "2021-05-27",
-      "year": "2021",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "PicoBalance: mass measurements with DriveAFM",
-      "place": "Nanosurf AG webinar",
-      "summary": "I presented the PicoBalance workflow in this Nanosurf AG webinar. It is a good example of the technology-transfer side of my work: making single-cell mass measurements usable for other labs.",
-      "side": "right",
-      "links": [
-        {
-          "label": "Nanosurf AG webinar",
-          "url": "https://www.nanosurf.com/en/webinar-picobalance-mass-measurements-with-driveafm"
-        }
-      ],
-      "localBackup": "archive/sources/2021-nanosurf-picobalance-webinar/"
-    },
-    {
-      "date": "2021-06-21",
-      "sortDate": "2021-06-21",
-      "year": "2021",
-      "type": "media",
-      "period": "Nanosurf AG",
-      "title": "I have great expectations for biosciences",
-      "place": "ETH D-BSSE",
-      "summary": "I reflected here on my PhD work, the ETH Medal, the Nature Communications rheology paper, and the move toward Nanosurf AG.",
-      "side": "left",
-      "links": [
-        {
-          "label": "ETH interview",
-          "url": "https://bsse.ethz.ch/news-and-events/d-bsse-news/2021/06/i-have-great-expectations-for-biosciences-to-be-the-big-player-of-our-century.html"
-        }
-      ],
-      "localBackup": "archive/media/2021-eth-interview/"
-    },
-    {
-      "date": "2021-07-24",
-      "sortDate": "2021-07-24",
-      "year": "2021",
-      "type": "talk",
-      "period": "Nanosurf AG",
-      "title": "13th EBSA Congress contribution",
-      "place": "European Biophysical Societies Association",
-      "summary": "I gave or contributed to this talk at European Biophysical Societies Association. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "EBSA abstract book",
-          "url": "https://ebsa.org/files/Congresses/Abstract%20Book_13thEBSACongress-Vienna-July2021.pdf"
-        }
-      ],
-      "localBackup": "archive/sources/2021-ebsa-abstract-book/"
-    },
-    {
-      "date": "2021-12-01",
-      "sortDate": "2021-12-01",
-      "year": "2021",
-      "type": "talk",
-      "period": "Nanosurf AG",
-      "title": "Fully motorized tip-scanning AFM with photothermal excitation",
-      "place": "Materials Research Society",
-      "summary": "I gave or contributed to this talk at Materials Research Society. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "left",
-      "links": [
-        {
-          "label": "MRS profile",
-          "url": "https://www.mrs.org/meetings-events/annual-meetings/archive/profile/Gotthold-Fl%C3%A4schner"
-        }
-      ],
-      "localBackup": "archive/sources/2021-mrs-presentation/"
-    },
-    {
-      "date": "2022-04-06",
-      "sortDate": "2022-04-06",
-      "year": "2022",
-      "type": "talk",
-      "period": "Nanosurf AG",
-      "title": "What can we do to help save the climate?",
-      "place": "HAW Hamburg Einstein-Forum",
-      "summary": "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [
-        {
-          "label": "HAW event",
-          "url": "https://www.haw-hamburg.de/detail/news/news/show/was-koennen-wir-zur-rettung-des-klimas-beitragen/"
-        }
-      ],
-      "localBackup": "archive/sources/2022-haw-climate-talk/"
-    },
-    {
-      "date": "2022-06-22",
-      "sortDate": "2022-06-22",
-      "year": "2022",
-      "type": "publication",
-      "period": "Nanosurf AG",
-      "title": "High-resolution mass measurements of single budding yeast reveal linear growth segments",
-      "place": "Nature Communications",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: High-resolution mass measurements of single budding yeast reveal linear growth segments.",
-      "side": "left",
-      "links": [
-        {
-          "label": "Nature Communications",
-          "url": "https://www.nature.com/articles/s41467-022-30781-y"
-        },
-        {
-          "label": "University of Sydney coverage",
-          "url": "https://www.sydney.edu.au/news-opinion/news/2022/06/22/the-secret-of-cells-could-be-in-their-yo-yo-like-tendencies0.html"
-        }
-      ],
-      "localBackup": "archive/publications/2022-nature-communications-yeast-growth/"
-    },
-    {
-      "date": "2022-11-17",
-      "sortDate": "2022-11-17",
-      "year": "2022",
-      "type": "talk",
-      "period": "Nanosurf AG",
-      "title": "What does life weigh?",
-      "place": "Physikalische Gesellschaft Zürich",
-      "summary": "I gave or contributed to this talk at Physikalische Gesellschaft Zürich. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
-      "side": "right",
-      "links": [
-        {
-          "label": "PGZ programme",
-          "url": "https://www.pgz.ch/events/ws2223/index.html"
-        }
-      ],
-      "localBackup": "archive/sources/2022-pgz-talk/"
-    },
-    {
-      "date": "2023-01-06",
-      "sortDate": "2023-01-06",
-      "year": "2023",
-      "type": "publication",
-      "period": "Nanosurf AG",
-      "title": "Tailoring microcantilever sensitivity to monitor single adherent living cells",
-      "place": "Nano Letters",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Tailoring microcantilever sensitivity to monitor single adherent living cells.",
-      "side": "left",
-      "links": [
-        {
-          "label": "ACS paper",
-          "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.2c04198"
-        }
-      ],
-      "localBackup": "archive/publications/2023-nano-letters-cantilevers/"
-    },
-    {
-      "date": "2023",
-      "sortDate": "2023-02",
-      "year": "2023",
-      "type": "publication",
-      "period": "Nanosurf AG",
-      "title": "Entropic barrier of water permeation through single-file channels",
-      "place": "Communications Chemistry",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Entropic barrier of water permeation through single-file channels.",
-      "side": "right",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1038/s42004-023-00919-0"
-        }
-      ],
-      "localBackup": "archive/publications/2023-communications-chemistry-water-permeation/"
-    },
-    {
-      "date": "2024-02-26",
-      "sortDate": "2024-02-26",
-      "year": "2024",
-      "type": "publication",
-      "period": "Nanosurf AG",
-      "title": "Monitoring the mass, eigenfrequency, and quality factor of mammalian cells",
-      "place": "Nature Communications",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Monitoring the mass, eigenfrequency, and quality factor of mammalian cells.",
-      "side": "left",
-      "links": [
-        {
-          "label": "Nature Communications",
-          "url": "https://www.nature.com/articles/s41467-024-46056-7"
-        }
-      ],
-      "localBackup": "archive/publications/2024-nature-communications-cell-resonance/"
-    },
-    {
-      "date": "2024",
-      "sortDate": "2024-03",
-      "year": "2024",
-      "type": "publication",
-      "period": "Nanosurf AG",
-      "title": "Hydrodynamic function and spring constant calibration of FluidFM micropipette cantilevers",
-      "place": "Microsystems & Nanoengineering",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Hydrodynamic function and spring constant calibration of FluidFM micropipette cantilevers.",
-      "side": "right",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.1038/s41378-023-00629-6"
-        }
-      ],
-      "localBackup": "archive/publications/2024-microsystems-nanoengineering-fluidfm/"
-    },
-    {
-      "date": "2025-06-19",
-      "sortDate": "2025-06-19",
-      "year": "2025",
-      "type": "publication",
-      "period": "IBEC Barcelona",
-      "title": "High-speed quantitative nanomechanical mapping by photothermal off-resonance AFM",
-      "place": "arXiv",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: High-speed quantitative nanomechanical mapping by photothermal off-resonance AFM.",
-      "side": "left",
-      "links": [
-        {
-          "label": "arXiv",
-          "url": "https://arxiv.org/abs/2506.16226"
-        }
-      ],
-      "localBackup": "archive/publications/2025-port-afm/"
-    },
-    {
-      "date": "2025",
-      "sortDate": "2025-07",
-      "year": "2025",
-      "type": "publication",
-      "period": "IBEC Barcelona",
-      "title": "Piezo1 regulates the mechanotransduction of soft matrix viscoelasticity",
-      "place": "PMC / IBEC-era mechanobiology",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Piezo1 regulates the mechanotransduction of soft matrix viscoelasticity.",
-      "side": "right",
-      "links": [
-        {
-          "label": "PMC mechanotransduction paper",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12528374/"
-        }
-      ],
-      "localBackup": "archive/publications/2025-piezo1-viscoelasticity/"
-    },
-    {
-      "date": "2025-10 / 2025-11",
-      "sortDate": "2025-10",
-      "year": "2025",
-      "type": "publication",
-      "period": "IBEC Barcelona",
-      "title": "Molecular determinants of solvent nanoseparation by nanoporous carbon materials",
-      "place": "ACS / Portal de Recerca",
-      "summary": "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Molecular determinants of solvent nanoseparation by nanoporous carbon materials.",
-      "side": "left",
-      "links": [
-        {
-          "label": "ACS paper",
-          "url": "https://pubs.acs.org/doi/10.1021/acsmaterialslett.5c01225"
-        }
-      ],
-      "localBackup": "archive/publications/2025-acs-nanoseparation/"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2024",
-      "sortDate": "2024-04",
-      "date": "2024-04",
-      "period": "IBEC Barcelona",
-      "title": "Begin IBEC postdoc"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2023",
-      "sortDate": "2024-03-31",
-      "date": "2024-03",
-      "period": "Nanosurf AG",
-      "title": "End Nanosurf AG"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2023",
-      "sortDate": "2023-12-01",
-      "date": "2023",
-      "period": "Nanosurf AG",
-      "title": "End ETH guest"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2021",
-      "sortDate": "2021-06-01",
-      "date": "2021-06",
-      "period": "Nanosurf AG",
-      "title": "Begin Nanosurf AG"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2021",
-      "sortDate": "2021-07-01",
-      "date": "2021-07",
-      "period": "Nanosurf AG",
-      "title": "Begin ETH guest"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2021",
-      "sortDate": "2021-05-31",
-      "date": "2021-05",
-      "period": "ETH Zurich",
-      "title": "End ETH postdoc"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2021",
-      "sortDate": "2021-01",
-      "date": "2021",
-      "period": "ETH Zurich",
-      "title": "End lecturer"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2020",
-      "sortDate": "2020-01",
-      "date": "2020",
-      "period": "ETH Zurich",
-      "title": "Begin ETH postdoc"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2019",
-      "sortDate": "2019-12",
-      "date": "2019",
-      "period": "ETH Zurich",
-      "title": "End PhD"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2014",
-      "sortDate": "2014-06",
-      "date": "2014",
-      "period": "ETH Zurich",
-      "title": "Begin PhD"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2014",
-      "sortDate": "2014-04",
-      "date": "2014",
-      "period": "Hamburg",
-      "title": "End Hamburg doctorate"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2014",
-      "sortDate": "2014-01",
-      "date": "2014",
-      "period": "Hamburg",
-      "title": "Begin Hamburg doctorate"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2013",
-      "sortDate": "2013-12",
-      "date": "2013",
-      "period": "Hamburg",
-      "title": "End M.Sc."
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2012",
-      "sortDate": "2012-06",
-      "date": "2012",
-      "period": "Hamburg",
-      "title": "Begin lecturer"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2012",
-      "sortDate": "2012-01",
-      "date": "2012",
-      "period": "Hamburg",
-      "title": "End applied physics assistant"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2011",
-      "sortDate": "2011-10",
-      "date": "2011",
-      "period": "Hamburg",
-      "title": "Begin M.Sc."
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2011",
-      "sortDate": "2011-09",
-      "date": "2011",
-      "period": "Hamburg",
-      "title": "End B.Sc."
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2011",
-      "sortDate": "2011-01",
-      "date": "2011",
-      "period": "Hamburg",
-      "title": "Begin applied physics assistant"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2010",
-      "sortDate": "2010-12",
-      "date": "2010",
-      "period": "Hamburg",
-      "title": "End DESY physics"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2010",
-      "sortDate": "2010-01",
-      "date": "2010",
-      "period": "Hamburg",
-      "title": "Begin laser physics assistant"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2009",
-      "sortDate": "2009-10",
-      "date": "2009",
-      "period": "Hamburg",
-      "title": "Begin B.Sc."
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2009",
-      "sortDate": "2009-09",
-      "date": "2009",
-      "period": "Hamburg",
-      "title": "End early studies"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2009",
-      "sortDate": "2009-08",
-      "date": "2009",
-      "period": "Hamburg",
-      "title": "End high school"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2008",
-      "sortDate": "2008-07",
-      "date": "2008-07",
-      "period": "Hamburg",
-      "title": "Begin early studies"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2007",
-      "sortDate": "2007-01",
-      "date": "2007",
-      "period": "Hamburg",
-      "title": "Begin DESY physics"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2007",
-      "sortDate": "2007-01-02",
-      "date": "2007",
-      "period": "Hamburg",
-      "title": "End advanced math"
-    },
-    {
-      "type": "milestone",
-      "side": "left",
-      "year": "2002",
-      "sortDate": "2002-01",
-      "date": "2002",
-      "period": "Hamburg",
-      "title": "Begin advanced math"
-    },
-    {
-      "type": "milestone",
-      "side": "right",
-      "year": "2001",
-      "sortDate": "2001-08",
-      "date": "2001",
-      "period": "Hamburg",
-      "title": "Begin high school"
-    },
-    {
-      "date": "2026",
-      "sortDate": "2026-02",
-      "year": "2026",
-      "type": "publication",
-      "period": "IBEC Barcelona",
-      "title": "Mechanically programmable DNA hydrogel microparticles for 3D cellular systems",
-      "place": "Advanced Materials",
-      "summary": "I include this 2026 publication because it belongs to my more recent interest in mechanically programmable biological environments.",
-      "side": "right",
-      "links": [],
-      "localBackup": "archive/publications/2026-advanced-materials-dna-hydrogel-microparticles/"
-    },
-    {
-      "date": "2026",
-      "sortDate": "2026-01",
-      "year": "2026",
-      "type": "patent",
-      "period": "IBEC Barcelona",
-      "title": "Apparatus and method for determining mechanical properties of a system",
-      "place": "US Patent 12,571,711",
-      "summary": "I include this patent because it captures the applied side of my work on measuring mechanical properties in biological systems.",
-      "side": "left",
-      "links": [],
-      "localBackup": "archive/sources/2026-us-patent-12571711/"
-    },
-    {
-      "date": "2018-04-27",
-      "sortDate": "2018-04-27",
-      "year": "2018",
-      "type": "talk",
-      "period": "ETH Zurich",
-      "title": "Blockchain for physics (dummies)",
-      "place": "BE Auditorium Meyrin, CERN",
-      "summary": "I gave this 30-minute CERN/Meyrin talk together with Martin Etzrodt. It sits nicely in the timeline because it shows an early curiosity about scientific infrastructure, trust, and open systems.",
-      "side": "right",
-      "links": [],
-      "localBackup": "archive/sources/2018-cern-blockchain-for-physics/"
-    }
-  ]
+﻿{
+    "periods":  [
+                    {
+                        "start":  "2001",
+                        "end":  "2013",
+                        "label":  "Hamburg",
+                        "subtitle":  "school, early studies, physics, outreach",
+                        "tone":  "hamburg"
+                    },
+                    {
+                        "start":  "2014",
+                        "end":  "2021",
+                        "label":  "ETH Zurich",
+                        "subtitle":  "PhD, biophysics, single-cell mechanics",
+                        "tone":  "eth"
+                    },
+                    {
+                        "start":  "2021",
+                        "end":  "2024",
+                        "label":  "Nanosurf AG",
+                        "subtitle":  "nanomechanics, PicoBalance, technology transfer",
+                        "tone":  "industry"
+                    },
+                    {
+                        "start":  "2024",
+                        "end":  "now",
+                        "label":  "IBEC Barcelona",
+                        "subtitle":  "postdoctoral mechanobiology",
+                        "tone":  "ibec"
+                    }
+                ],
+    "events":  [
+                   {
+                       "date":  "2008-11-27",
+                       "sortDate":  "2008-11-27",
+                       "year":  "2008",
+                       "type":  "talk",
+                       "title":  "Curved spaces: the shape of the universe",
+                       "place":  "DESY Science Cafe",
+                       "summary":  "I gave or contributed to this talk at DESY Science Cafe. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "DESY program",
+                                         "url":  "https://sciencecafe.desy.de/e205504/e205557/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2008-desy-science-cafe/"
+                   },
+                   {
+                       "date":  "2009-2013",
+                       "sortDate":  "2009-10-01",
+                       "year":  "2009",
+                       "type":  "award",
+                       "title":  "Scholarship of the Studienstiftung des Deutschen Volkes",
+                       "place":  "Studienstiftung des Deutschen Volkes",
+                       "summary":  "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "CV_GFlaeschner.pdf"
+                   },
+                   {
+                       "date":  "2012-01-11",
+                       "sortDate":  "2012-01-11",
+                       "year":  "2012",
+                       "type":  "talk",
+                       "title":  "On the fast lane: does Einstein\u0027s relativity falter?",
+                       "place":  "DESY Science Cafe",
+                       "summary":  "I gave or contributed to this talk at DESY Science Cafe. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "DESY program",
+                                         "url":  "https://sciencecafe.desy.de/e205504/e205519/"
+                                     },
+                                     {
+                                         "label":  "DESY feedback",
+                                         "url":  "https://sciencecafe.desy.de/e52/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2012-desy-relativity-talk/"
+                   },
+                   {
+                       "date":  "2013-11",
+                       "sortDate":  "2013-11",
+                       "year":  "2013",
+                       "type":  "talk",
+                       "title":  "The Big Bang Theory: Der Urknall",
+                       "place":  "HAW Hamburg Einstein-Workshop",
+                       "summary":  "I gave or contributed to this talk at HAW Hamburg Einstein-Workshop. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
+                   },
+                   {
+                       "date":  "2013-12-05",
+                       "sortDate":  "2013-12-05",
+                       "year":  "2013",
+                       "type":  "talk",
+                       "title":  "Can science fiction become science fact?",
+                       "place":  "HAW Hamburg Einstein-Forum",
+                       "summary":  "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
+                   },
+                   {
+                       "date":  "2014-03-27",
+                       "sortDate":  "2014-03-27",
+                       "year":  "2014",
+                       "type":  "talk",
+                       "period":  "Hamburg",
+                       "title":  "The Standard Model: why the world is the way it is",
+                       "place":  "HAW Hamburg Einstein-Forum",
+                       "summary":  "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
+                   },
+                   {
+                       "date":  "2014-04-24",
+                       "sortDate":  "2014-04-24",
+                       "year":  "2014",
+                       "type":  "talk",
+                       "period":  "Hamburg",
+                       "title":  "Black holes: nothing is darker than black",
+                       "place":  "HAW Hamburg Einstein-Forum",
+                       "summary":  "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
+                   },
+                   {
+                       "date":  "2014-05-22",
+                       "sortDate":  "2014-05-22",
+                       "year":  "2014",
+                       "type":  "talk",
+                       "period":  "Hamburg",
+                       "title":  "Exotic stars: giants, dwarfs, and other exotics",
+                       "place":  "HAW Hamburg Einstein-Forum",
+                       "summary":  "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "gotthold_flaeschner_public_online_footprint_chronology_v2.docx"
+                   },
+                   {
+                       "date":  "2014-12-10",
+                       "sortDate":  "2014-12-10",
+                       "year":  "2014",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "The journey into space: propulsion methods and concepts",
+                       "place":  "DESY Science Cafe",
+                       "summary":  "I gave or contributed to this talk at DESY Science Cafe. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "DESY program",
+                                         "url":  "https://sciencecafe.desy.de/e205504/e241624/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2014-desy-space-travel/"
+                   },
+                   {
+                       "date":  "2015",
+                       "sortDate":  "2015-03",
+                       "year":  "2015",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Temperature and non-linear response of AFM cantilever-type oscillators",
+                       "place":  "Applied Physics Letters",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Temperature and non-linear response of AFM cantilever-type oscillators.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1063/1.4916221"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2015-applied-physics-letters/"
+                   },
+                   {
+                       "date":  "2016",
+                       "sortDate":  "2016-01",
+                       "year":  "2016",
+                       "type":  "award",
+                       "period":  "ETH Zurich",
+                       "title":  "NCCR Molecular Systems Engineering Poster Cup Winner",
+                       "place":  "NCCR Molecular Systems Engineering",
+                       "summary":  "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "CV_GFlaeschner.pdf"
+                   },
+                   {
+                       "date":  "2017-02-22",
+                       "sortDate":  "2017-02-22",
+                       "year":  "2017",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Millikelvin all-fiber cavity optomechanical apparatus",
+                       "place":  "Review of Scientific Instruments",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Millikelvin all-fiber cavity optomechanical apparatus.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "arXiv preprint",
+                                         "url":  "https://arxiv.org/abs/1611.03406"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2017-rsi-optomechanics/"
+                   },
+                   {
+                       "date":  "2017",
+                       "sortDate":  "2017-09",
+                       "year":  "2017",
+                       "type":  "patent",
+                       "period":  "ETH Zurich",
+                       "title":  "Apparatus and method for determining mechanical properties of a system",
+                       "place":  "International patent application",
+                       "summary":  "I include this patent because it captures the applied side of my work on measuring mechanical properties in biological systems.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "CV_GFlaeschner.pdf"
+                   },
+                   {
+                       "date":  "2017",
+                       "sortDate":  "2017-09-02",
+                       "year":  "2017",
+                       "type":  "patent",
+                       "period":  "ETH Zurich",
+                       "title":  "Microcantilever measuring device and method for determining mass and/or properties of biological systems",
+                       "place":  "International patent application",
+                       "summary":  "I include this patent because it reflects the practical side of my work: turning measurement ideas and instruments into methods that can travel beyond one lab.",
+                       "side":  "right",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "CV_GFlaeschner.pdf"
+                   },
+                   {
+                       "date":  "2017-10-26",
+                       "sortDate":  "2017-10-26",
+                       "year":  "2017",
+                       "type":  "media",
+                       "period":  "ETH Zurich",
+                       "title":  "Wie viel wiegt das Leben?",
+                       "place":  "ETH Zurich News",
+                       "summary":  "I use this ETH news piece to show how our single-cell weighing work was presented to a broader audience, because explaining why a measurement matters is part of making the method useful.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "ETH news",
+                                         "url":  "https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2017/10/waage-fuer-einzelne-zellen.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/media/2017-eth-picobalance-news/"
+                   },
+                   {
+                       "date":  "2017-10-26",
+                       "sortDate":  "2017-10-26-1",
+                       "year":  "2017",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Inertial picobalance reveals fast mass fluctuations in mammalian cells",
+                       "place":  "Nature",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Inertial picobalance reveals fast mass fluctuations in mammalian cells.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "PubMed",
+                                         "url":  "https://pubmed.ncbi.nlm.nih.gov/29072271/"
+                                     },
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1038/nature24288"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2017-nature-picobalance/"
+                   },
+                   {
+                       "date":  "2017-12-18",
+                       "sortDate":  "2017-12-18",
+                       "year":  "2017",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Virus stamping for targeted single-cell infection",
+                       "place":  "Nature Biotechnology",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Virus stamping for targeted single-cell infection.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "Crossref metadata",
+                                         "url":  "https://crossmark.crossref.org/dialog/?doi=10.1038%2Fnbt.4034"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2017-nature-biotechnology-virus-stamping/"
+                   },
+                   {
+                       "date":  "2017-12-20",
+                       "sortDate":  "2017-12-20",
+                       "year":  "2017",
+                       "type":  "media",
+                       "period":  "ETH Zurich",
+                       "title":  "Nature selected an image from the cell-mass work among the best science images of 2017",
+                       "place":  "ETH D-BSSE",
+                       "summary":  "This is a public-facing trace of my work or scientific engagement. I include it because it shows where the research, the people around it, or the institutional context became visible beyond a paper.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "ETH D-BSSE",
+                                         "url":  "https://bsse.ethz.ch/news-and-events/d-bsse-news/2017/12/the-10-best-science-images-of-the-year-2017---nature-awards-daniel-muellers-work.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/media/2017-nature-best-images/"
+                   },
+                   {
+                       "date":  "2017-12-27",
+                       "sortDate":  "2017-12-27",
+                       "year":  "2017",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "Star Trek and Star Wars: a physical perspective",
+                       "place":  "Planetarium Hamburg / HAW Hamburg",
+                       "summary":  "I gave or contributed to this talk at Planetarium Hamburg / HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "Programme PDF",
+                                         "url":  "https://www.hamburg-city-webguide.de/wp-content/uploads/2017/11/HAW_Einstein_Programm_20171024_RZ-ANSICHT.pdf"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2017-haw-planetarium-programme/"
+                   },
+                   {
+                       "date":  "2017-12-29",
+                       "sortDate":  "2017-12-29",
+                       "year":  "2017",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "Einstein and gravitational waves",
+                       "place":  "Planetarium Hamburg / HAW Hamburg",
+                       "summary":  "I gave or contributed to this talk at Planetarium Hamburg / HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "Programme PDF",
+                                         "url":  "https://www.hamburg-city-webguide.de/wp-content/uploads/2017/11/HAW_Einstein_Programm_20171024_RZ-ANSICHT.pdf"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2017-haw-planetarium-programme/"
+                   },
+                   {
+                       "date":  "2018",
+                       "sortDate":  "2018-01",
+                       "year":  "2018",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Vaccinia virus hijacks EGFR signalling to enhance virus spread",
+                       "place":  "Nature Microbiology",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Vaccinia virus hijacks EGFR signalling to enhance virus spread.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1038/s41564-018-0288-2"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2018-nature-microbiology-vaccinia/"
+                   },
+                   {
+                       "date":  "2018-03-09",
+                       "sortDate":  "2018-03-09",
+                       "year":  "2018",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "Exotic stars: giants, dwarfs, and other exotics",
+                       "place":  "Einstein-Forum, Planetarium Hamburg",
+                       "summary":  "I gave or contributed to this talk at Einstein-Forum, Planetarium Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "idw / HAW announcement",
+                                         "url":  "https://nachrichten.idw-online.de/2018/03/08/neues-einstein-forum-vorlesungsreihe-von-haw-hamburg-und-planetarium-hamburg"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2018-einstein-forum/"
+                   },
+                   {
+                       "date":  "2018-03-12",
+                       "sortDate":  "2018-03-12",
+                       "year":  "2018",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "Superconductivity: the path of least resistance",
+                       "place":  "Einstein-Forum, HAW Hamburg",
+                       "summary":  "I gave or contributed to this talk at Einstein-Forum, HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "idw / HAW announcement",
+                                         "url":  "https://nachrichten.idw-online.de/2018/03/08/neues-einstein-forum-vorlesungsreihe-von-haw-hamburg-und-planetarium-hamburg"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2018-einstein-forum/"
+                   },
+                   {
+                       "date":  "2018-06-07",
+                       "sortDate":  "2018-06-07",
+                       "year":  "2018",
+                       "type":  "award",
+                       "period":  "ETH Zurich",
+                       "title":  "Swiss Nanoscience PhD Award",
+                       "place":  "Swiss Nanoscience Institute / ETH Zurich",
+                       "summary":  "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "ETH announcement",
+                                         "url":  "https://bsse.ethz.ch/news-and-events/d-bsse-news/2018/06/swiss-nanotech-award-given-to-rajib-schubert-and-gotthold-flaeschner.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2018-swiss-nanoscience-award/"
+                   },
+                   {
+                       "date":  "2018-06-11",
+                       "sortDate":  "2018-06-11",
+                       "year":  "2018",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "Cryptography from Caesar to Bitcoin and quantum computers",
+                       "place":  "Einstein-Forum, HAW Hamburg",
+                       "summary":  "I gave or contributed to this talk at Einstein-Forum, HAW Hamburg. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "idw / HAW announcement",
+                                         "url":  "https://nachrichten.idw-online.de/2018/03/08/neues-einstein-forum-vorlesungsreihe-von-haw-hamburg-und-planetarium-hamburg"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2018-einstein-forum/"
+                   },
+                   {
+                       "date":  "2018-11-19",
+                       "sortDate":  "2018-11-19",
+                       "year":  "2018",
+                       "type":  "media",
+                       "period":  "ETH Zurich",
+                       "title":  "20 years of AG Faszination Physik at DESY",
+                       "place":  "DESYinform",
+                       "summary":  "This is a public-facing trace of my work or scientific engagement. I include it because it shows where the research, the people around it, or the institutional context became visible beyond a paper.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "DESYinform PDF",
+                                         "url":  "https://www.desy.de/sites2009/site_www-desy/content/e409/e8731/e8852/e8858/infoboxContent285305/DESYinform_3_18_englow_eng.pdf"
+                                     }
+                                 ],
+                       "localBackup":  "archive/media/2018-desyinform/"
+                   },
+                   {
+                       "date":  "2019",
+                       "sortDate":  "2019-01",
+                       "year":  "2019",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Automated analysis of inertial mass measurements of single cells",
+                       "place":  "SoftwareX",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Automated analysis of inertial mass measurements of single cells.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1016/j.softx.2019.100303"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2019-softwarex-inertial-mass/"
+                   },
+                   {
+                       "date":  "2019",
+                       "sortDate":  "2019-01-02",
+                       "year":  "2019",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Atomic force microscopy-based mechanobiology",
+                       "place":  "Nature Reviews Physics",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Atomic force microscopy-based mechanobiology.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1038/s42254-018-0001-7"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2019-nature-reviews-physics-afm/"
+                   },
+                   {
+                       "date":  "2019-02",
+                       "sortDate":  "2019-02",
+                       "year":  "2019",
+                       "type":  "media",
+                       "period":  "ETH Zurich",
+                       "title":  "SRF radio appearance on ETH power-abuse concerns",
+                       "place":  "Schweizer Radio und Fernsehen",
+                       "summary":  "This is a public-facing trace of my work or scientific engagement. I include it because it shows where the research, the people around it, or the institutional context became visible beyond a paper.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "SRF audio",
+                                         "url":  "https://www.srf.ch/audio/regionaljournal-basel-baselland/gotthold-flaeschner-und-timm-schroeder-wollen-den-machtmissbrauch-an-der-eth-in-basel-bekaempfen?uuid=3b0564ee-e964-4501-82c7-ad0ef130bedc"
+                                     }
+                                 ],
+                       "localBackup":  "archive/media/2019-srf-eth-work-environment/"
+                   },
+                   {
+                       "date":  "2019-02-14",
+                       "sortDate":  "2019-02-14",
+                       "year":  "2019",
+                       "type":  "award",
+                       "period":  "ETH Zurich",
+                       "title":  "ETH delegate to the Global Young Scientist Summit",
+                       "place":  "ETH Zurich / Singapore",
+                       "summary":  "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "ETH Ambassadors",
+                                         "url":  "https://ethambassadors.ethz.ch/2019/02/14/nobel-laureates-mentor-the-next-generation-of-young-scientists/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2019-gyss/"
+                   },
+                   {
+                       "date":  "2020-01-28",
+                       "sortDate":  "2020-01-28",
+                       "year":  "2020",
+                       "type":  "patent",
+                       "period":  "ETH Zurich",
+                       "title":  "Controlled environmental system / environmental chamber",
+                       "place":  "Google Patents",
+                       "summary":  "I include this patent because it reflects the practical side of my work: turning measurement ideas and instruments into methods that can travel beyond one lab.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "Google Patents",
+                                         "url":  "https://patents.google.com/patent/US10545169B2"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2020-environmental-chamber-patent/"
+                   },
+                   {
+                       "date":  "2020-06-04",
+                       "sortDate":  "2020-06-04",
+                       "year":  "2020",
+                       "type":  "patent",
+                       "period":  "ETH Zurich",
+                       "title":  "Novel methods for the targeted introduction of viruses into cells and tissues",
+                       "place":  "Google Patents",
+                       "summary":  "I include this patent because it reflects the practical side of my work: turning measurement ideas and instruments into methods that can travel beyond one lab.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "Google Patents",
+                                         "url":  "https://patents.google.com/patent/US20200172933A1/en"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2020-virus-stamping-patent/"
+                   },
+                   {
+                       "date":  "2020",
+                       "sortDate":  "2020-07",
+                       "year":  "2020",
+                       "type":  "award",
+                       "period":  "ETH Zurich",
+                       "title":  "ETH Medal for outstanding dissertation",
+                       "place":  "ETH Zurich",
+                       "summary":  "I received this distinction during the period shown on the timeline. I include it as a marker of recognition rather than as a separate CV list.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "ETH announcement",
+                                         "url":  "https://bsse.ethz.ch/news-and-events/d-bsse-news/2021/05/eth-medals-for-matteo-togninalli-gotthold-flaeschner.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2021-eth-medal/"
+                   },
+                   {
+                       "date":  "2021-02-18",
+                       "sortDate":  "2021-02-18",
+                       "year":  "2021",
+                       "type":  "media",
+                       "period":  "ETH Zurich",
+                       "title":  "We also have to convince the incautious",
+                       "place":  "HAW Hamburg",
+                       "summary":  "I discussed pandemic modelling and science communication in this HAW interview, because communication is part of responsible scientific work.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "HAW interview",
+                                         "url":  "https://www.haw-hamburg.de/detail/news/news/show/wir-muessen-auch-die-unvorsichtigen-ueberzeugen/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/media/2021-haw-pandemic-interview/"
+                   },
+                   {
+                       "date":  "2021-05-18",
+                       "sortDate":  "2021-05-18",
+                       "year":  "2021",
+                       "type":  "publication",
+                       "period":  "ETH Zurich",
+                       "title":  "Rheology of rounded mammalian cells over continuous frequencies",
+                       "place":  "Nature Communications",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Rheology of rounded mammalian cells over continuous frequencies.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "Nature Communications",
+                                         "url":  "https://www.nature.com/articles/s41467-021-23158-0"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2021-nature-communications-rheology/"
+                   },
+                   {
+                       "date":  "2021-05-27",
+                       "sortDate":  "2021-05-27",
+                       "year":  "2021",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "PicoBalance: mass measurements with DriveAFM",
+                       "place":  "Nanosurf AG webinar",
+                       "summary":  "I presented the PicoBalance workflow in this Nanosurf AG webinar. It is a good example of the technology-transfer side of my work: making single-cell mass measurements usable for other labs.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "Nanosurf AG webinar",
+                                         "url":  "https://www.nanosurf.com/en/webinar-picobalance-mass-measurements-with-driveafm"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2021-nanosurf-picobalance-webinar/"
+                   },
+                   {
+                       "date":  "2021-06-21",
+                       "sortDate":  "2021-06-21",
+                       "year":  "2021",
+                       "type":  "media",
+                       "period":  "Nanosurf AG",
+                       "title":  "I have great expectations for biosciences",
+                       "place":  "ETH D-BSSE",
+                       "summary":  "I reflected here on my PhD work, the ETH Medal, the Nature Communications rheology paper, and the move toward Nanosurf AG.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "ETH interview",
+                                         "url":  "https://bsse.ethz.ch/news-and-events/d-bsse-news/2021/06/i-have-great-expectations-for-biosciences-to-be-the-big-player-of-our-century.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/media/2021-eth-interview/"
+                   },
+                   {
+                       "date":  "2021-07-24",
+                       "sortDate":  "2021-07-24",
+                       "year":  "2021",
+                       "type":  "talk",
+                       "period":  "Nanosurf AG",
+                       "title":  "13th EBSA Congress contribution",
+                       "place":  "European Biophysical Societies Association",
+                       "summary":  "I gave or contributed to this talk at European Biophysical Societies Association. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "EBSA abstract book",
+                                         "url":  "https://ebsa.org/files/Congresses/Abstract%20Book_13thEBSACongress-Vienna-July2021.pdf"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2021-ebsa-abstract-book/"
+                   },
+                   {
+                       "date":  "2021-12-01",
+                       "sortDate":  "2021-12-01",
+                       "year":  "2021",
+                       "type":  "talk",
+                       "period":  "Nanosurf AG",
+                       "title":  "Fully motorized tip-scanning AFM with photothermal excitation",
+                       "place":  "Materials Research Society",
+                       "summary":  "I gave or contributed to this talk at Materials Research Society. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "MRS profile",
+                                         "url":  "https://www.mrs.org/meetings-events/annual-meetings/archive/profile/Gotthold-Fl%C3%A4schner"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2021-mrs-presentation/"
+                   },
+                   {
+                       "date":  "2022-04-06",
+                       "sortDate":  "2022-04-06",
+                       "year":  "2022",
+                       "type":  "talk",
+                       "period":  "Nanosurf AG",
+                       "title":  "What can we do to help save the climate?",
+                       "place":  "HAW Hamburg Einstein-Forum",
+                       "summary":  "I gave or contributed to this talk at HAW Hamburg Einstein-Forum. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "HAW event",
+                                         "url":  "https://www.haw-hamburg.de/detail/news/news/show/was-koennen-wir-zur-rettung-des-klimas-beitragen/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2022-haw-climate-talk/"
+                   },
+                   {
+                       "date":  "2022-06-22",
+                       "sortDate":  "2022-06-22",
+                       "year":  "2022",
+                       "type":  "publication",
+                       "period":  "Nanosurf AG",
+                       "title":  "High-resolution mass measurements of single budding yeast reveal linear growth segments",
+                       "place":  "Nature Communications",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: High-resolution mass measurements of single budding yeast reveal linear growth segments.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "Nature Communications",
+                                         "url":  "https://www.nature.com/articles/s41467-022-30781-y"
+                                     },
+                                     {
+                                         "label":  "University of Sydney coverage",
+                                         "url":  "https://www.sydney.edu.au/news-opinion/news/2022/06/22/the-secret-of-cells-could-be-in-their-yo-yo-like-tendencies0.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2022-nature-communications-yeast-growth/"
+                   },
+                   {
+                       "date":  "2022-11-17",
+                       "sortDate":  "2022-11-17",
+                       "year":  "2022",
+                       "type":  "talk",
+                       "period":  "Nanosurf AG",
+                       "title":  "What does life weigh?",
+                       "place":  "Physikalische Gesellschaft Zürich",
+                       "summary":  "I gave or contributed to this talk at Physikalische Gesellschaft Zürich. I include it because public explanation and exchange have been part of my scientific work, not a side activity.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "PGZ programme",
+                                         "url":  "https://www.pgz.ch/events/ws2223/index.html"
+                                     }
+                                 ],
+                       "localBackup":  "archive/sources/2022-pgz-talk/"
+                   },
+                   {
+                       "date":  "2023-01-06",
+                       "sortDate":  "2023-01-06",
+                       "year":  "2023",
+                       "type":  "publication",
+                       "period":  "Nanosurf AG",
+                       "title":  "Tailoring microcantilever sensitivity to monitor single adherent living cells",
+                       "place":  "Nano Letters",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Tailoring microcantilever sensitivity to monitor single adherent living cells.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "ACS paper",
+                                         "url":  "https://pubs.acs.org/doi/10.1021/acs.nanolett.2c04198"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2023-nano-letters-cantilevers/"
+                   },
+                   {
+                       "date":  "2023",
+                       "sortDate":  "2023-02",
+                       "year":  "2023",
+                       "type":  "publication",
+                       "period":  "Nanosurf AG",
+                       "title":  "Entropic barrier of water permeation through single-file channels",
+                       "place":  "Communications Chemistry",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Entropic barrier of water permeation through single-file channels.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1038/s42004-023-00919-0"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2023-communications-chemistry-water-permeation/"
+                   },
+                   {
+                       "date":  "2024-02-26",
+                       "sortDate":  "2024-02-26",
+                       "year":  "2024",
+                       "type":  "publication",
+                       "period":  "Nanosurf AG",
+                       "title":  "Monitoring the mass, eigenfrequency, and quality factor of mammalian cells",
+                       "place":  "Nature Communications",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Monitoring the mass, eigenfrequency, and quality factor of mammalian cells.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "Nature Communications",
+                                         "url":  "https://www.nature.com/articles/s41467-024-46056-7"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2024-nature-communications-cell-resonance/"
+                   },
+                   {
+                       "date":  "2024",
+                       "sortDate":  "2024-03",
+                       "year":  "2024",
+                       "type":  "publication",
+                       "period":  "Nanosurf AG",
+                       "title":  "Hydrodynamic function and spring constant calibration of FluidFM micropipette cantilevers",
+                       "place":  "Microsystems \u0026 Nanoengineering",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Hydrodynamic function and spring constant calibration of FluidFM micropipette cantilevers.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "DOI",
+                                         "url":  "https://doi.org/10.1038/s41378-023-00629-6"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2024-microsystems-nanoengineering-fluidfm/"
+                   },
+                   {
+                       "date":  "2025-06-19",
+                       "sortDate":  "2025-06-19",
+                       "year":  "2025",
+                       "type":  "publication",
+                       "period":  "IBEC Barcelona",
+                       "title":  "High-speed quantitative nanomechanical mapping by photothermal off-resonance AFM",
+                       "place":  "arXiv",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: High-speed quantitative nanomechanical mapping by photothermal off-resonance AFM.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "arXiv",
+                                         "url":  "https://arxiv.org/abs/2506.16226"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2025-port-afm/"
+                   },
+                   {
+                       "date":  "2025",
+                       "sortDate":  "2025-07",
+                       "year":  "2025",
+                       "type":  "publication",
+                       "period":  "IBEC Barcelona",
+                       "title":  "Piezo1 regulates the mechanotransduction of soft matrix viscoelasticity",
+                       "place":  "PMC / IBEC-era mechanobiology",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Piezo1 regulates the mechanotransduction of soft matrix viscoelasticity.",
+                       "side":  "right",
+                       "links":  [
+                                     {
+                                         "label":  "PMC mechanotransduction paper",
+                                         "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12528374/"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2025-piezo1-viscoelasticity/"
+                   },
+                   {
+                       "date":  "2025-10 / 2025-11",
+                       "sortDate":  "2025-10",
+                       "year":  "2025",
+                       "type":  "publication",
+                       "period":  "IBEC Barcelona",
+                       "title":  "Molecular determinants of solvent nanoseparation by nanoporous carbon materials",
+                       "place":  "ACS / Portal de Recerca",
+                       "summary":  "I contributed to this publication as part of my work connecting measurement, modelling, and biological systems. For me, this item belongs in the timeline because it marks a concrete scientific result: Molecular determinants of solvent nanoseparation by nanoporous carbon materials.",
+                       "side":  "left",
+                       "links":  [
+                                     {
+                                         "label":  "ACS paper",
+                                         "url":  "https://pubs.acs.org/doi/10.1021/acsmaterialslett.5c01225"
+                                     }
+                                 ],
+                       "localBackup":  "archive/publications/2025-acs-nanoseparation/"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "right",
+                       "year":  "2024",
+                       "sortDate":  "2024-04",
+                       "date":  "2024-04",
+                       "period":  "IBEC Barcelona",
+                       "title":  "Begin IBEC postdoc"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "left",
+                       "year":  "2023",
+                       "sortDate":  "2024-03-31",
+                       "date":  "2024-03",
+                       "period":  "Nanosurf AG",
+                       "title":  "End Nanosurf AG"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "right",
+                       "year":  "2023",
+                       "sortDate":  "2023-12-01",
+                       "date":  "2023",
+                       "period":  "Nanosurf AG",
+                       "title":  "End ETH guest"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "right",
+                       "year":  "2021",
+                       "sortDate":  "2021-06-01",
+                       "date":  "2021-06",
+                       "period":  "Nanosurf AG",
+                       "title":  "Begin Nanosurf AG"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "left",
+                       "year":  "2021",
+                       "sortDate":  "2021-07-01",
+                       "date":  "2021-07",
+                       "period":  "Nanosurf AG",
+                       "title":  "Begin ETH guest"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "right",
+                       "year":  "2021",
+                       "sortDate":  "2021-05-31",
+                       "date":  "2021-05",
+                       "period":  "ETH Zurich",
+                       "title":  "End ETH postdoc"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "left",
+                       "year":  "2021",
+                       "sortDate":  "2021-01",
+                       "date":  "2021",
+                       "period":  "ETH Zurich",
+                       "title":  "End lecturer"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "right",
+                       "year":  "2020",
+                       "sortDate":  "2020-01",
+                       "date":  "2020",
+                       "period":  "ETH Zurich",
+                       "title":  "Begin ETH postdoc"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "left",
+                       "year":  "2019",
+                       "sortDate":  "2019-12",
+                       "date":  "2019",
+                       "period":  "ETH Zurich",
+                       "title":  "End PhD"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "right",
+                       "year":  "2014",
+                       "sortDate":  "2014-06",
+                       "date":  "2014",
+                       "period":  "ETH Zurich",
+                       "title":  "Begin PhD"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "left",
+                       "year":  "2013",
+                       "sortDate":  "2013-12",
+                       "date":  "2013",
+                       "period":  "Hamburg",
+                       "title":  "End M.Sc. in physics"
+                   },
+                   {
+                       "type":  "milestone",
+                       "side":  "left",
+                       "year":  "2009",
+                       "sortDate":  "2009-10",
+                       "date":  "2009",
+                       "period":  "Hamburg",
+                       "title":  "Begin B.Sc. in physics"
+                   },
+                   {
+                       "date":  "2026",
+                       "sortDate":  "2026-02",
+                       "year":  "2026",
+                       "type":  "publication",
+                       "period":  "IBEC Barcelona",
+                       "title":  "Mechanically programmable DNA hydrogel microparticles for 3D cellular systems",
+                       "place":  "Advanced Materials",
+                       "summary":  "I include this 2026 publication because it belongs to my more recent interest in mechanically programmable biological environments.",
+                       "side":  "right",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "archive/publications/2026-advanced-materials-dna-hydrogel-microparticles/"
+                   },
+                   {
+                       "date":  "2026",
+                       "sortDate":  "2026-01",
+                       "year":  "2026",
+                       "type":  "patent",
+                       "period":  "IBEC Barcelona",
+                       "title":  "Apparatus and method for determining mechanical properties of a system",
+                       "place":  "US Patent 12,571,711",
+                       "summary":  "I include this patent because it captures the applied side of my work on measuring mechanical properties in biological systems.",
+                       "side":  "left",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "archive/sources/2026-us-patent-12571711/"
+                   },
+                   {
+                       "date":  "2018-04-27",
+                       "sortDate":  "2018-04-27",
+                       "year":  "2018",
+                       "type":  "talk",
+                       "period":  "ETH Zurich",
+                       "title":  "Blockchain for physics (dummies)",
+                       "place":  "BE Auditorium Meyrin, CERN",
+                       "summary":  "I gave this 30-minute CERN/Meyrin talk together with Martin Etzrodt. It sits nicely in the timeline because it shows an early curiosity about scientific infrastructure, trust, and open systems.",
+                       "side":  "right",
+                       "links":  [
+
+                                 ],
+                       "localBackup":  "archive/sources/2018-cern-blockchain-for-physics/"
+                   }
+               ]
 }
