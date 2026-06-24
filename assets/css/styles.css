@@ -261,6 +261,14 @@ a {
   margin-top: 12px;
 }
 
+.places-section {
+  padding-bottom: clamp(36px, 5vw, 64px);
+}
+
+.timeline-section {
+  padding-top: clamp(36px, 5vw, 64px);
+}
+
 .timeline-controls {
   display: flex;
   flex-wrap: wrap;
