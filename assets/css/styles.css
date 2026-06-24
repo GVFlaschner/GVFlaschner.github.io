@@ -251,8 +251,8 @@ a {
 
 .expert-switch input {
   position: absolute;
-  inline-size: 1px;
-  block-size: 1px;
+  width: 1px;
+  height: 1px;
   opacity: 0;
   pointer-events: none;
 }
@@ -279,17 +279,19 @@ a {
   transition: transform 160ms ease, background 160ms ease;
 }
 
-.expert-switch:has(input:checked) {
+.expert-switch.is-active {
   border-color: var(--accent);
   color: var(--accent);
 }
 
-.expert-switch:has(input:checked) .switch-track {
+.expert-switch input:checked + .switch-track,
+.expert-switch.is-active .switch-track {
   border-color: var(--accent);
   background: rgba(28, 107, 106, 0.12);
 }
 
-.expert-switch:has(input:checked) .switch-thumb {
+.expert-switch input:checked + .switch-track .switch-thumb,
+.expert-switch.is-active .switch-thumb {
   background: var(--accent);
   transform: translateX(22px);
 }

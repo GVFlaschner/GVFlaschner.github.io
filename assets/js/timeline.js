@@ -168,10 +168,18 @@ function bindFilters() {
 }
 
 function bindExpertMode() {
+  updateExpertSwitch();
   expertModeToggle?.addEventListener("change", () => {
     state.expertMode = expertModeToggle.checked;
+    updateExpertSwitch();
     renderTimeline();
   });
+}
+
+function updateExpertSwitch() {
+  if (!expertModeToggle) return;
+  state.expertMode = expertModeToggle.checked;
+  expertModeToggle.closest(".expert-switch")?.classList.toggle("is-active", state.expertMode);
 }
 
 function renderTimeline() {
