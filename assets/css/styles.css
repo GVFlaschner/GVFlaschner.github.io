@@ -923,7 +923,6 @@ code {
 
 @media (max-width: 900px) {
   .hero,
-  .places-grid,
   .section-head,
   .timeline-wrap,
   .theme-grid {
@@ -1039,6 +1038,21 @@ code {
     max-width: none;
   }
 
+}
+
+@media (max-width: 720px) {
+  .places-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .places-map {
+    width: 100%;
+    justify-self: start;
+  }
+
+  .places-text {
+    min-height: auto;
+  }
 }
 
 @media (max-width: 640px) {
