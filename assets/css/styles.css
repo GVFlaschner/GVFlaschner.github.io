@@ -227,7 +227,71 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin: 42px 0;
+  margin: 42px 0 10px;
+}
+
+.expert-mode-control {
+  margin: 0 0 32px;
+}
+
+.expert-switch {
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+  padding: 8px 10px 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #eeebe4;
+  color: var(--muted);
+  cursor: pointer;
+  font: 760 0.72rem var(--sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.expert-switch input {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.switch-track {
+  position: relative;
+  display: inline-flex;
+  width: 46px;
+  height: 24px;
+  border: 1px solid #cfc5b6;
+  border-radius: 999px;
+  background: var(--paper);
+  transition: background 160ms ease, border-color 160ms ease;
+}
+
+.switch-thumb {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--muted);
+  transition: transform 160ms ease, background 160ms ease;
+}
+
+.expert-switch:has(input:checked) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.expert-switch:has(input:checked) .switch-track {
+  border-color: var(--accent);
+  background: rgba(28, 107, 106, 0.12);
+}
+
+.expert-switch:has(input:checked) .switch-thumb {
+  background: var(--accent);
+  transform: translateX(22px);
 }
 
 .filter-button {
@@ -540,6 +604,16 @@ a {
 
 .event-card.open .event-details {
   display: block;
+}
+
+.audience-note {
+  padding: 10px 12px;
+  border-left: 3px solid var(--line);
+  background: #f4f1ea;
+}
+
+.audience-note p {
+  margin: 0;
 }
 
 .event-links {
