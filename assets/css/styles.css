@@ -200,7 +200,7 @@ a {
   border-top: 1px solid var(--line);
 }
 
-.about-section {
+.places-section {
   padding-top: clamp(44px, 6vw, 72px);
 }
 
@@ -208,7 +208,6 @@ a {
   font-size: clamp(2.3rem, 5vw, 4.4rem);
 }
 
-.about-grid,
 .section-head {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(280px, 0.65fr);
@@ -216,11 +215,50 @@ a {
   align-items: start;
 }
 
+.places-grid {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.95fr) minmax(280px, 0.75fr);
+  gap: clamp(28px, 6vw, 76px);
+  align-items: center;
+  margin-top: clamp(24px, 4vw, 44px);
+}
+
 .about-text,
 .section-head p,
 .contact-section p {
   color: var(--muted);
   font-size: 1.04rem;
+}
+
+.timeline-intro {
+  display: grid;
+  justify-items: start;
+  gap: 14px;
+}
+
+.timeline-intro p {
+  margin: 0;
+}
+
+.places-map {
+  display: block;
+  width: 60%;
+  height: auto;
+  justify-self: center;
+}
+
+.places-text {
+  min-height: 260px;
+  color: var(--muted);
+  font-size: 1.04rem;
+}
+
+.places-text p {
+  margin: 0;
+}
+
+.places-text p + p {
+  margin-top: 12px;
 }
 
 .timeline-controls {
@@ -231,7 +269,7 @@ a {
 }
 
 .expert-mode-control {
-  margin: 0 0 32px;
+  margin: 0;
 }
 
 .expert-switch {
@@ -852,6 +890,19 @@ code {
   color: var(--muted);
 }
 
+.vacancies-section {
+  display: grid;
+  gap: 18px;
+  justify-items: start;
+}
+
+.vacancies-section p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
 .contact-section,
 .footer {
   background: #eeebe4;
@@ -872,7 +923,7 @@ code {
 
 @media (max-width: 900px) {
   .hero,
-  .about-grid,
+  .places-grid,
   .section-head,
   .timeline-wrap,
   .theme-grid {

@@ -14,9 +14,10 @@
       <span class="brand-role">Soft matter physics · Tools · Theory · Open Science</span>
     </a>
     <nav class="nav" aria-label="Main navigation">
-      <a href="#about">About</a>
+      <a href="#places">Places</a>
       <a href="#timeline">Timeline</a>
       <a href="#research">Research</a>
+      <a href="#vacancies">Vacancies</a>
       <a href="#contact">Contact</a>
     </nav>
   </header>
@@ -24,7 +25,6 @@
   <main id="top">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">Dr. Gotthold Viktor Fläschner</p>
         <h1>I like to solve puzzles.</h1>
         <p class="lead">...especially the ones where nature refuses to stay inside one discipline. I work at the intersection of physics and biology: measuring living systems, building methods, and using theory to understand what cells sense and do. What draws me in is the tension between mathematical beauty and real-world use. That is why I often work across boundaries: between physics and biology, theory and experiment, academia and industry, research and communication. I also care strongly about open science, because good ideas should travel further than the walls of a single lab.</p>
         <div class="hero-actions" aria-label="Primary links">
@@ -39,12 +39,15 @@
       </figure>
     </section>
 
-    <section class="section about-section" id="about">
-      <div class="section-label">About</div>
-      <div class="about-grid">
-        <h2>At home between physics, biology, theory, and tools.</h2>
-        <div class="about-text">
-          <p>I studied physics in Hamburg, where I first worked on ultra-low-temperature physics in a group connected to quantum teleportation experiments. During my PhD at ETH Zurich, I moved into biophysics and worked on methods to measure the mass, resonance, damping, and mechanical properties of living cells. I then joined Nanosurf AG, where I worked on translating my research into products, applications, and workflows for researchers. Today, as a postdoctoral researcher at IBEC Barcelona, I have returned to fundamental mechanobiology: trying to understand how cells sense, respond to, and build the physical world around them.</p>
+    <section class="section places-section" id="places">
+      <h2>Places</h2>
+      <div class="places-grid">
+        <img class="places-map" src="assets/images/map.png" alt="Map of Germany, Switzerland, and Spain with red markers for Hamburg, Basel, Liestal, Zürich, and Barcelona">
+        <div class="places-text">
+          <p>Hamburg — Uni Hamburg, Physics: ultracold matter &amp; quantum teleportation</p>
+          <p>Basel/Zürich — ETH PhD in biophysics: how living cells weigh, vibrate, and deform</p>
+          <p>Liestal — Nanosurf AG: Bringing my research into industry.</p>
+          <p>Barcelona — Insitute for Bioengineering Catalonia: Mechanobiology—how cells sense, react to and shape their physical world.</p>
         </div>
       </div>
     </section>
@@ -52,10 +55,20 @@
     <section class="section timeline-section" id="timeline">
       <div class="section-head">
         <div>
-          <div class="section-label">Interactive timeline</div>
-          <h2>Papers, Patents, Public engagement.</h2>
+          <h2>Papers, Patents, Public.</h2>
         </div>
-        <p>Click on the items, if you want to know more.</p>
+        <div class="timeline-intro">
+          <p>To learn more about one of my papers, patents, talks etc., click on them. Change to expert mode if you want to read all the details.</p>
+          <div class="expert-mode-control">
+            <label class="expert-switch" for="expertMode">
+              <span>Expert mode</span>
+              <input id="expertMode" type="checkbox">
+              <span class="switch-track" aria-hidden="true">
+                <span class="switch-thumb"></span>
+              </span>
+            </label>
+          </div>
+        </div>
       </div>
 
       <div class="timeline-controls" aria-label="Timeline filters">
@@ -65,16 +78,6 @@
         <button class="filter-button" type="button" data-filter="media">Media</button>
         <button class="filter-button" type="button" data-filter="award">Awards</button>
         <button class="filter-button" type="button" data-filter="patent">Patents</button>
-      </div>
-
-      <div class="expert-mode-control">
-        <label class="expert-switch" for="expertMode">
-          <span>Expert mode</span>
-          <input id="expertMode" type="checkbox">
-          <span class="switch-track" aria-hidden="true">
-            <span class="switch-thumb"></span>
-          </span>
-        </label>
       </div>
 
       <div class="timeline-wrap">
@@ -98,6 +101,11 @@
           <p>Current work on how cells respond to elastic and viscous substrate cues, using hydrogels, modeling, microscopy, and data-driven dynamics.</p>
         </article>
       </div>
+    </section>
+
+    <section class="section vacancies-section" id="vacancies">
+      <h2>Vacancies</h2>
+      <p>I am looking for a skilled PhD student. If you are interested in my work, please contact me.</p>
     </section>
 
     <section class="section contact-section" id="contact">
